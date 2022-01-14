@@ -1,0 +1,15 @@
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\bin\Release\net6.0\EuroTravel.exe
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\bin\Release\net6.0\EuroTravel.deps.json
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\bin\Release\net6.0\EuroTravel.runtimeconfig.json
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\bin\Release\net6.0\EuroTravel.dll
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\bin\Release\net6.0\ref\EuroTravel.dll
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\bin\Release\net6.0\EuroTravel.pdb
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.csproj.AssemblyReference.cache
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.AssemblyInfoInputs.cache
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.AssemblyInfo.cs
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.csproj.CoreCompileInputs.cache
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.dll
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\ref\EuroTravel.dll
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.pdb
+C:\Users\ozyr5\source\repos\Euro Travel\ConsoleApp1\obj\Release\net6.0\EuroTravel.genruntimeconfig.cache
